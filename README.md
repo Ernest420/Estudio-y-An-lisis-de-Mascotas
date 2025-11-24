@@ -6,16 +6,16 @@ Este repositorio contiene:
 - analisis_detallado: Dashboard de análisis con métricas detalladas.
 - modelo_entrenamiento: Código base de ejecución de modelo de entrenamiento para analizar la muestra de datos de 3000 ingresos provenientes del dataset PetFinder.
 
-# METODOLOGIAS USADAS
+## METODOLOGIAS USADAS
 
-## Fuentes de datos:
+Fuentes de datos:
 - Dataset PetFinder: Información de mascotas en adopción (edad, raza, historial médico)
 - Veterinary Medical Databases: Registros anónimos de diagnósticos veterinarios
 - Encuestas a dueños: Datos sobre alimentación, ejercicio, ambiente familiar
 - Datos climáticos y geográficos: Influencia del entorno en la salud animal
 - Estudios longitudinales sobre envejecimiento de mascotas
 
-## Variables clave a analizar:
+Variables clave a analizar:
 - Demográficas: Especie, raza, edad, peso, sexo
 - Ambientales: Tipo de vivienda, acceso al exterior, clima
 - Cuidados: Frecuencia veterinaria, tipo de alimentación, actividad física
@@ -50,7 +50,7 @@ Fase 4: Visualización Educativa
 - Alertas tempranas de enfermedades comunes
 
 
-# Referencias y datasets iniciales
+## Referencias y datasets iniciales
 - PetFinder Dataset (Kaggle)
 - Veterinary Medical Database (VMDB)
 - Banfield Pet Hospital State of Pet Health
