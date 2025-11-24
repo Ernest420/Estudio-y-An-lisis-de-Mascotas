@@ -8,14 +8,14 @@ Este repositorio contiene:
 
 # METODOLOGIAS USADAS
 
-Fuentes de datos:
+## Fuentes de datos:
 - Dataset PetFinder: Información de mascotas en adopción (edad, raza, historial médico)
 - Veterinary Medical Databases: Registros anónimos de diagnósticos veterinarios
 - Encuestas a dueños: Datos sobre alimentación, ejercicio, ambiente familiar
 - Datos climáticos y geográficos: Influencia del entorno en la salud animal
 - Estudios longitudinales sobre envejecimiento de mascotas
 
-Variables clave a analizar:
+## Variables clave a analizar:
 - Demográficas: Especie, raza, edad, peso, sexo
 - Ambientales: Tipo de vivienda, acceso al exterior, clima
 - Cuidados: Frecuencia veterinaria, tipo de alimentación, actividad física
