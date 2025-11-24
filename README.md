@@ -33,7 +33,6 @@ Fase 2: Análisis de Correlación
 - Correlación entre visitas veterinarias y detección temprana
 
 Fase 3: Modelado Predictivo
-Ejemplo de enfoque similar a TP3 pero aplicado a mascotas
 from pyspark.ml.regression import RandomForestRegressor
 from pyspark.ml.feature import VectorAssembler
 
