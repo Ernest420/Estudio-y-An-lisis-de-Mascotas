@@ -33,15 +33,16 @@ Fase 2: Análisis de Correlación
 - Correlación entre visitas veterinarias y detección temprana
 
 Fase 3: Modelado Predictivo
-
+```python
 from pyspark.ml.regression import RandomForestRegressor
 from pyspark.ml.feature import VectorAssembler
 
-Predecir esperanza de vida basado en características
+# Predecir esperanza de vida basado en características
 assembler = VectorAssembler(
     inputCols=['raza_encoded', 'peso', 'esterilizado', 'frecuencia_veterinario'],
     outputCol='features'
 )
+```
 
 Fase 4: Visualización Educativa
 - Dashboard interactivo para dueños de mascotas
