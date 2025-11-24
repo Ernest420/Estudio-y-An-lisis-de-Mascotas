@@ -6,7 +6,7 @@ Este repositorio contiene:
 - analisis_detallado: Dashboard de análisis con métricas detalladas.
 - modelo_entrenamiento: Código base de ejecución de modelo de entrenamiento para analizar la muestra de datos de 3000 ingresos provenientes del dataset PetFinder.
 
-## METODOLOGIAS USADAS
+## METODOLOGÍAS USADAS
 
 Fuentes de datos:
 - Dataset PetFinder: Información de mascotas en adopción (edad, raza, historial médico)
